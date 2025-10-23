@@ -8,7 +8,6 @@ public class Comments {
     public Owner getTestcaseOwner(Testcase testcase){}; 
 
 
-    // retorna horas em mês
     public Hours getHoursInQuarter(){}; 
 
 
