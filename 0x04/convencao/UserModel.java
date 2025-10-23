@@ -6,7 +6,7 @@ private int idUser;
 
 private String descricao;
 
-final static int IDADEMINIMA = 18;
+final static int IDADE_MINIMA = 18;
 
 // função que coleta todos os users
 public getUsers() {return [];}
